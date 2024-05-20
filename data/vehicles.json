@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "name": "Dio",
+    "x": "300",
+    "y": "300",
+    "speed": "50",
+    "direction": "Towards",
+    "scenarioId": "1"
+  },
+  {
+    "name": "Activa",
+    "x": "200",
+    "y": "400",
+    "speed": "30",
+    "direction": "Backwards",
+    "scenarioId": "1",
+    "id": 2
+  },
+  {
+    "id": 3,
+    "name": "KTM",
+    "x": "400",
+    "y": "450",
+    "speed": "100",
+    "direction": "Backwards",
+    "scenarioId": "2"
+  }
+]
